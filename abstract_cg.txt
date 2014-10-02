@@ -1,0 +1,21 @@
+"Who's on first?" We're accustomed to being able to assume
+key contextual information, but this Abbott & Costello routine hinges
+on missed context about a player named Who. New technologies allow us
+to perform inexpensive genome-wide measurements of living systems, but
+using these data to understand how these systems work is challenging
+because it's not clear what we can safely assume. To avoid finding
+ourselves in a "Who's on first”" routine in biology, we must develop
+approaches that learn key principles of living organisms from these
+data. Right now anyone can download genome-wide measurements of more
+than 1.5 million conditions. Our lab is developing algorithms that
+peer into these data to understand both the context, i.e. the
+environment, and cells' responses to it. Beyond developing methods
+that discover general regulatory principles, we strive to put big data
+analysis into the hands of all biologists. To make big data a key
+resource for every biology lab we need to develop user friendly
+interfaces for biologists, and we need to provide training for how to
+use these capabilities. Our long-term goal is to simultaneously
+improve how we integrate and understand big heterogeneous compendia of
+biological data, while developing interfaces that help biologists
+answer the questions that publicly available data indicate we should
+be asking.

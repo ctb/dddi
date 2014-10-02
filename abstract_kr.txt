@@ -1,0 +1,15 @@
+Over the last roughly 20 years, biologists have amassed a substantial
+(and growing) catalog of complete genome sequences. These sequences
+contain the the basic instructions for synthesizing and assembling
+many molecular "parts" into functioning cells and organisms. Yet
+despite detailed knowledge of many individual sequences, we lack a set
+of general rules that describes how the contents of the genome are
+knit together to form functioning cellular systems that do things like
+grow, reproduce, and respond to the environment. My lab is developing
+analytical methods to compare genome information across species, with
+the basic idea that we can use this information to create statistical
+models for how cellular systems are built. In principle, knowledge of
+the statistical constraints underlying the design of cellular systems
+would provide practical rules for the engineering of pathways with
+industrial or medical relevance, and a context for understanding the
+molecular basis of disease-causing mutations.

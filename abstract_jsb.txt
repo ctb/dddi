@@ -1,0 +1,31 @@
+Pasteur's old adage that "chance favors the prepared mind" emerged
+from an era when data-driven discovery was done, fundamentally, by
+people. When people, in particular domain-trained scientists, had the
+time to look and think about the natural world, those with a deep
+understanding of what science predicted were better equipped to find
+that which it did not. Pasteur's quote has served as an admonition to
+modern scientists, which I take to be an imperative for the
+preparatory study and scholarship around broad scientific paradigms
+that inform our daily work. But how does this imperative translate to
+the coming era when more scientific data will be examined, mined, and
+explored by machines than by people? In effect, the fundamental
+question that I am trying to answer is this: in the context of
+machine-based intelligence serving science, how do we prepare the
+artificial mind for scientific discovery?
+
+<p>
+
+I plan to explore this question through astronomical survey data,
+particularly imaging programs that observe the night's sky repeatably
+acquiring data capable of detecting astronomical transients and
+variable stars. Of course the acquisition of data (especially in a new
+parameter space) is not a guarantee of scientific success:
+instrumenting is not tantamount to recognition, which in turn does not
+assure discovery, which is not necessarily lead to novel inference. To
+this end, data-driven discovery is the surfacing of novel insights
+from the ever-changing sky---my proposed methodological research
+directions were discussed in the Future Research Direction of the
+initial response. From a domain science perspective, I am particularly
+motivated to uncover and study "theorized but not yet detected" events
+as well as "unknown unknowns" (as opposed to discovery of more "known"
+events.
