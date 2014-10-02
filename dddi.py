@@ -56,7 +56,8 @@ investigators.append(dict(lastname='Kingsford',
 investigators.append(dict(lastname='Larsen',
                           firstname='Laurel',
                           affiliation='UC Berkeley',
-                          site='http://geography.berkeley.edu/people/person_detail.php?person=412'))
+                          site='http://www.esdlberkeley.com/',
+                          title='Developing the informationscape approach to environmental change detection.'))
 
 investigators.append(dict(lastname='Re',
                           firstname='Chris',
