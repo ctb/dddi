@@ -1,7 +1,9 @@
 
 `Dr. Ethan White, University of Florida <http://ethanwhite.org/>`__
 
-Proposal: `Bringing Data Intensive Forecasting to Ecology <https://raw.githubusercontent.com/ethanwhite/moore-ddd/master/full_proposal.pdf>`__
+Proposal: `Data-intensive forecasting and prediction for ecological systems <http://dx.doi.org/10.6084/m9.figshare.1189330>`__
+
+Source code repository: https://github.com/weecology
 
 Google Scholar: http://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en
 
