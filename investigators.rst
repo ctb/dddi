@@ -85,7 +85,7 @@ Google Scholar: http://scholar.google.com/citations?user=DnnCWN0AAAAJ&hl=en
 
 `Dr. Laurel Larsen, UC Berkeley <http://www.esdlberkeley.com/>`__
 
-Proposal title: Developing the informationscape approach to environmental change detection.
+Proposal: `Developing the informationscape approach to environmental change detection. <http://figshare.com/articles/Developing_the_informationscape_approach_to_environmental_change_detection/1293611>`__
 
 ----
 

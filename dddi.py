@@ -57,7 +57,8 @@ investigators.append(dict(lastname='Larsen',
                           firstname='Laurel',
                           affiliation='UC Berkeley',
                           site='http://www.esdlberkeley.com/',
-                          title='Developing the informationscape approach to environmental change detection.'))
+                          title='Developing the informationscape approach to environmental change detection.',
+                          proposal_url='http://figshare.com/articles/Developing_the_informationscape_approach_to_environmental_change_detection/1293611'))
 
 investigators.append(dict(lastname='Re',
                           firstname='Chris',
